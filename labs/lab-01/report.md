@@ -10,7 +10,7 @@
   </ul>
   <br>
   <li><strong>Thoughts on Ch.3 of Free Culture</strong></li>
-  <br> I am absolutely astounded by the whole situation of Jesse and the RIAA. As a person of technological interest, experimenting and tinkering is welcome and even encouraged, yet when doing so Jesse instead gets the RIAA demanding to bleed out all the money a university student (possibly with student loans as well) has. A million dollar company, attacking these college students, all for doing what they're meant to be doing using technology that not even they fully created. I do, however, understand the risks that freely available software provides: it gives a grand baseline for projects to fluorish, but can also lead to some problems and clashes in certain situations, just like in Jesse's case.
+  I am absolutely astounded by the whole situation of Jesse and the RIAA. As a person of technological interest, experimenting and tinkering is welcome and even encouraged, yet when doing so Jesse instead gets the RIAA demanding to bleed out all the money a university student (possibly with student loans as well) has. A million dollar company, attacking these college students, all for doing what they're meant to be doing using technology that not even they fully created. I do, however, understand the risks that freely available software provides: it gives a grand baseline for projects to fluorish, but can also lead to some problems and clashes in certain situations, just like in Jesse's case.
 </ol>
 
 ![image](https://user-images.githubusercontent.com/60018973/149567447-a965e298-a65e-459a-bcfd-f23a337fe8c4.png)
