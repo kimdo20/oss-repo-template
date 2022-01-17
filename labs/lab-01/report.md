@@ -31,5 +31,5 @@
 
 ![image](https://user-images.githubusercontent.com/60018973/149591059-3615593d-6dd2-488f-a2cd-82e25a26f488.png)
 
-<br><br>
+<br>
 One open source project that caught my attention is the Thousand Parsec project, found on http://aosabook.org/ within The Architecture of Open Source Applications volume 1. This project holds the premise of a game: users start off on a newly-generated planet, and fortify it with defense and offense mechanisms. The game adopts a turn-based system and players interact with objects using orders. There are more aspects to the game as well, such as resources and designs. Under the Thousand Parsec protocol, the server is responsible for managing the state and dynamics of a game under a ruleset, and the player client receives that information to perform actions based on what is known.
