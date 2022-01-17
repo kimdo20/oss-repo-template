@@ -29,7 +29,19 @@
 
 ![image](https://user-images.githubusercontent.com/60018973/149579894-a5b4b86e-e34b-496b-8221-9b4cfea45084.png)
 
+![image](https://user-images.githubusercontent.com/60018973/149846840-beec4e93-9d1a-4892-b179-5bd43c4005f8.png)
+
+![image](https://user-images.githubusercontent.com/60018973/149846962-984a964a-930e-40d6-a27c-5a4a60d70dcb.png)
+
+![image](https://user-images.githubusercontent.com/60018973/149847034-8af34a88-fe93-4b8c-bec6-ff74ee3db8d4.png)
+
+![image](https://user-images.githubusercontent.com/60018973/149847124-700582dc-0b0a-460a-9fcb-32b8d3f9614d.png)
+
+![image](https://user-images.githubusercontent.com/60018973/149847304-cae8c483-12f4-4588-a475-c73a48f89601.png)
+
+
 ![image](https://user-images.githubusercontent.com/60018973/149591059-3615593d-6dd2-488f-a2cd-82e25a26f488.png)
+
 
 <br>
 One open source project that caught my attention is the Thousand Parsec project, found on http://aosabook.org/ within The Architecture of Open Source Applications volume 1. This project holds the premise of a game: users start off on a newly-generated planet, and fortify it with defense and offense mechanisms. The game adopts a turn-based system and players interact with objects using orders. There are more aspects to the game as well, such as resources and designs. Under the Thousand Parsec protocol, the server is responsible for managing the state and dynamics of a game under a ruleset, and the player client receives that information to perform actions based on what is known.
