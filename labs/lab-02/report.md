@@ -10,7 +10,7 @@ Lab 2 Part 1 repo link: https://github.com/kimdo20/lab2
 
 ![image](https://user-images.githubusercontent.com/60018973/150870314-d3bbad65-a292-4113-a7ff-2d3699a3d7e8.png)
 
-PullReq fork: https://github.com/kimdo20/PullReq/tree/master/Spring2022
+PullReq fork: https://github.com/kimdo20/PullReq 
 
 ![image](https://user-images.githubusercontent.com/60018973/150871614-011e0487-e5b8-4aac-861f-fbb8853a37c2.png)
 
