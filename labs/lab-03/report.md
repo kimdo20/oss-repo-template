@@ -10,3 +10,7 @@ Latest commit:<br>
 
 Branches:<br>
 ![image](https://user-images.githubusercontent.com/60018973/151598735-b770752a-280f-4f66-9c41-a3646c31b497.png)
+
+![image](https://user-images.githubusercontent.com/60018973/151603164-b1be4068-4e11-426e-a8c9-bcc3b3cb6d63.png)
+
+Gitstats instead shows 14871 lines of code, with 4 authors/contributors. The latest commit recording matches with that from the repository.
