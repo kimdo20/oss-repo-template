@@ -16,7 +16,19 @@ Branches:<br>
 
 Gitstats instead shows 14871 lines of code, with 4 authors/contributors. The latest commit recording matches with that from the repository.
 
-## Borilliant
+## Borilliant Feedback
+
+## boxsplit
+
+## BrewMe
+
+## BShare
+Number of contributors - 1<br>
+Number of lines of code - 114638<br>
+First commit - 32b9448f521a174351dabbc9f2698eecdd2e5b4c 2/23/2016<br>
+Latest commit - 2c2489d959fdb2130c7bd31830bada558d2db249 12/13/2016<br>
+Current branches - master
+
 
 ## Gource
 I was not able to get gource working; I have attached the error message below.<br>
