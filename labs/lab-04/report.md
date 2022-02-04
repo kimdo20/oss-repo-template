@@ -1,7 +1,13 @@
 <ul>
-  <li>Why it is important to choose a LICENSE?
-  <li>Why is it important that you SHOULDN'T use a project that doesn't have an explicit license?
-  <li>Failure to follow the Open System Model Section
+  <li><b>Why it is important to choose a LICENSE?</b>
+    <br>It is important to choose a license so that people know and can tell what terms and regulations your code has. If someone was interested in your code and wanted to use it or improve upon it, they would first have to know if they are allowed to via the license.<br><br>
+    
+  <li><b>Why is it important that you SHOULDN'T use a project that doesn't have an explicit license?</b>
+    <br>It is important as there would be no regulation or protection for yourself if you choose to use it. If you use a project that has no explicit license, you hold no legal protection and are vulernable if the creator decides to take action against you.<br><br>
+    
+  <li><b>Failure to follow the Open System Model Section</b>
+    <br>I believe it depends on the type of software being developed. In Gopher's case, there was a bigger community interested in what they were doing, but in the cases of smaller projects with a very specific and narrow niche, it may be better to adopt the "right thing" design approach. With projects that numerous people have their sights set on, I do agree that releasing their production work early on allows for others who may have a more optimal design method in mind to add in their thoughts. By releasing your idea publicly, it garters opinions that you yourself may have not have thought of, and could optimize the procedure. However, with projects that have specific goals in mind, having such a grand number of varying opinions could instead be distracting.<br><br>
+    
   <li>Justification
   <li>Open source business model: https://github.com/sak6lab/OpenAssistant
  </ul>
