@@ -7,7 +7,11 @@
 
 Website | License Present | License
 ---------|:----------|:-------
-https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
+https://github.com/marinater/virtual-tab | Yes | MIT License
+https://github.com/bparslow/990 | Yes | GNU General Public License v3.0
+https://github.com/shinoka7/aips | Yes | MIT License
+https://github.com/rpi-alpaca/alpaca | Yes | MIT License
+https://github.com/kaijianz/alvitr | Yes | MIT License
 
 <br>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
