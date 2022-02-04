@@ -3,6 +3,7 @@
   <li>Why is it important that you SHOULDN'T use a project that doesn't have an explicit license?
   <li>Failure to follow the Open System Model Section
   <li>Justification
+  <li>Open source business model: https://github.com/sak6lab/OpenAssistant
  </ul>
 
 Website | License Present | License
