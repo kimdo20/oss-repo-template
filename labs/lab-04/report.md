@@ -8,7 +8,8 @@
   <li><b>Failure to follow the Open System Model Section</b>
     <br>I believe it depends on the type of software being developed. In Gopher's case, there was a bigger community interested in what they were doing, but in the cases of smaller projects with a very specific and narrow niche, it may be better to adopt the "right thing" design approach. With projects that numerous people have their sights set on, I do agree that releasing their production work early on allows for others who may have a more optimal design method in mind to add in their thoughts. By releasing your idea publicly, it garters opinions that you yourself may have not have thought of, and could optimize the procedure. However, with projects that have specific goals in mind, having such a grand number of varying opinions could instead be distracting.<br><br>
     
-  <li>Justification
+  <li><b>Justification</b>
+    <br>a<br><br>
   <li>Open source business model: https://github.com/sak6lab/OpenAssistant
  </ul>
 
