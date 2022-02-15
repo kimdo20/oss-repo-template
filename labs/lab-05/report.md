@@ -2,15 +2,28 @@
 <details><summary>Screenshots</summary>
 <p>
   
+  [**Step1 files**](https://github.com/kimdo20/oss-repo-template/tree/master/labs/lab-05/Step1)
 ![image](https://user-images.githubusercontent.com/60018973/153648024-7470382f-843b-4bcd-b555-98cd2ffd4807.png)
-
+  
+  
+  [**Step2 files**](https://github.com/kimdo20/oss-repo-template/tree/master/labs/lab-05/Step2)
 ![image](https://user-images.githubusercontent.com/60018973/153650047-a256fd15-a0bd-4776-a7a3-f7dcad17afb9.png)
-
+  
+  
+  [**Step3 files**](https://github.com/kimdo20/oss-repo-template/tree/master/labs/lab-05/Step3)
 ![image](https://user-images.githubusercontent.com/60018973/153650479-8632e460-cabe-489e-8e2a-b5c5c7b7c425.png)
 
+  
+  [**Step4 files**](https://github.com/kimdo20/oss-repo-template/tree/master/labs/lab-05/Step4)
 ![image](https://user-images.githubusercontent.com/60018973/153655937-4878857f-6368-4552-b36a-2402f87ac973.png)
 ![image](https://user-images.githubusercontent.com/60018973/153656086-4e574f7a-4177-4a70-aa67-bef465a37dc8.png)
 ![image](https://user-images.githubusercontent.com/60018973/153656136-7ba7323c-0470-486b-b148-22477867ab50.png)
+  
+  
+  [**Step5 files**](https://github.com/kimdo20/oss-repo-template/tree/master/labs/lab-05/Step5)
+  ![image](https://user-images.githubusercontent.com/60018973/153968629-3da43b4e-e060-4d82-a0ba-f2b8288fb35b.png)
+
+  
   </p>
   </details>
   
