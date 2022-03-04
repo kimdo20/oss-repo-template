@@ -1,6 +1,7 @@
+## Words of length 5
 ![image](https://user-images.githubusercontent.com/60018973/156815388-2f25411a-4756-4a2b-bd0a-b6e4bb3e9a7b.png)
 
-<details><summary>Code for words of length 4</summary>
+<details><summary>Code for words of length 5</summary>
 <p>
   
 
@@ -99,3 +100,6 @@
 
 </p>
 </details>
+
+## Words of length 4
+![image](https://user-images.githubusercontent.com/60018973/156817660-56c5aef9-2e46-417d-a2f6-5ee8b1246254.png)
