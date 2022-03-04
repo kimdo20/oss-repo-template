@@ -206,7 +206,7 @@
 ## One letter difference
 ![image](https://user-images.githubusercontent.com/60018973/156820721-7245817e-865e-41a5-a8e7-1b3c45e18dff.png)
 
-<details><summary>Code for words of length 4</summary>
+<details><summary>Code for one letter difference method</summary>
 <p>
     
     """
