@@ -19,5 +19,6 @@ Built using the commands cmake -G "Unix Makefiles" ../cmake and make -j5
 ![image](https://user-images.githubusercontent.com/60018973/159525537-596c46fa-8084-4da1-8292-73b8d35735d6.png)
 
 Fix:
-![image](https://user-images.githubusercontent.com/60018973/159528103-b335bfab-9b8f-4c25-adaf-d57606350f21.png)
+<br>![image](https://user-images.githubusercontent.com/60018973/159528103-b335bfab-9b8f-4c25-adaf-d57606350f21.png)
+![image](https://user-images.githubusercontent.com/60018973/159528885-b68d1236-2235-4df8-99b6-7f6f6d06bc4e.png)
 
