@@ -24,3 +24,4 @@ Fix:
 
 # Checkpoint 4
 Repository link: https://github.com/kimdo20/lab7
+![image](https://user-images.githubusercontent.com/60018973/159546320-38e55e87-5676-4e80-86c3-d02b7128bd36.png)
