@@ -24,3 +24,12 @@
 ![image](https://user-images.githubusercontent.com/60018973/161311532-64897919-88ab-413b-afe0-039dad5c11ed.png)
 ![image](https://user-images.githubusercontent.com/60018973/161313692-84960e87-8385-479c-96e4-19217676e531.png)
 ![image](https://user-images.githubusercontent.com/60018973/161313617-8b36f39c-7e46-4d0b-9955-ce1bf01c06f9.png)
+![image](https://user-images.githubusercontent.com/60018973/161313929-38ed1366-1f9d-4c46-8f09-4c21b7df2058.png)
+![image](https://user-images.githubusercontent.com/60018973/161314651-aeb3e0e3-860a-455e-ade7-18c6e96b22d5.png)
+
+## Checkpoint 4
+1. ![image](https://user-images.githubusercontent.com/60018973/161315011-ace59c26-7528-4437-a80c-2ebf5ede4075.png)
+2. ![image](https://user-images.githubusercontent.com/60018973/161315480-e5098afb-d2b6-4c90-96c8-1d3371f2370d.png)
+3. ![image](https://user-images.githubusercontent.com/60018973/161315808-432bdb64-5ea8-4f02-bec5-236ad4df9c12.png)
+4. ![image](https://user-images.githubusercontent.com/60018973/161315847-eea5ba2f-745c-459f-8b50-b033af7af990.png)
+
